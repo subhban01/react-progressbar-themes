@@ -1,3 +1,3 @@
 # react-progressbar-themes
 
-Progress bar component in react with themes to choose from.
+React component for displaying progress bar. Has themes to choose from.
