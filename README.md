@@ -13,6 +13,6 @@ npm install react-progressbar-themes
 const Pbar = require('react-progressbar-themes');
 
 render(){
-<Pbar />
+<Pbar theme={'theme4'}/>
 }
 ```
