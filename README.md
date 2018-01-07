@@ -16,4 +16,15 @@ render(){
 <Pbar theme={'theme4'}/>
 }
 ```
-..
+
+## Props
+
+| Prop  | Description |
+| ------------- | ------------- |
+| theme  | Content Cell  |
+| percent  | Content Cell  |
+| theme  | Content Cell  |
+| barColor  | Content Cell  |
+| trenchColor  | Content Cell  |
+| text  | Content Cell  |
+| length  | Content Cell  |
