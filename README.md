@@ -20,7 +20,7 @@ render(){
 ## Props
 
 | Prop  | Values | Example | Description | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | percent  | 0 to 100  | 56  | percentage completed  |
 | theme  | Content Cell  | 'theme4'  | theme name  |
 | length  | percent or px value  | '40%' or '300px'  | desired length of the progressbar  |
