@@ -19,12 +19,11 @@ render(){
 
 ## Props
 
-| Prop  | Description |
+| Prop  | Values | Example | Description | 
 | ------------- | ------------- |
-| theme  | Content Cell  |
-| percent  | Content Cell  |
-| theme  | Content Cell  |
-| barColor  | Content Cell  |
-| trenchColor  | Content Cell  |
-| text  | Content Cell  |
-| length  | Content Cell  |
+| percent  | 0 to 100  | 56  | percentage completed  |
+| theme  | Content Cell  | 'theme4'  | theme name  |
+| length  | percent or px value  | '40%' or '300px'  | desired length of the progressbar  |
+| barColor  | NA  | NA  | to be added  |
+| trenchColor  | NA  | NA  | to be added  |
+| text  | NA  | NA  | to be added  |
