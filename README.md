@@ -3,6 +3,9 @@
 React component for displaying progress bar. Has themes to choose from.
 
 
+![themes list](pbar-themes.png?raw=true)
+
+
 ## Install
 ```
 npm install react-progressbar-themes
