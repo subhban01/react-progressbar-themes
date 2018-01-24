@@ -46,3 +46,4 @@ export default class yourComponent extends React.Component {
 | ```barColor```  | NA  | NA  | to be added  | NA  |
 | ```trenchColor```  | NA  | NA  | to be added  | NA  |
 | ```text```  | NA  | NA  | to be added  | NA  |
+
